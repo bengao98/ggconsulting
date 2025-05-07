@@ -960,3 +960,7 @@ a {
     text-decoration: none;
     outline: none !important;
 }
+
+.addres_text {
+    white-space: nowrap;
+}
